@@ -66,8 +66,8 @@ A lo largo de mis proyectos he utilizado diferentes herramientas y lenguajes:
 Si deseas ponerte en contacto conmigo:
 
 - 📧 Correo institucional: [hvangulo@espol.edu.ec](mailto:hvangulo@espol.edu.ec)
-- 💼 [LinkedIn](https://linkedin.com/in/victoria-angulo-860a51252/)
-- 🐙 [GitHub](https://github.com/vic28code)
+- 💼 LinkedIn[linkedin.com/in/victoria-angulo-860a51252/](https://linkedin.com/in/victoria-angulo-860a51252/)
+- 🐙 GitHub [github.com/vic28code](https://github.com/vic28code)
 
 ---
 
