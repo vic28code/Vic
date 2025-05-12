@@ -1,20 +1,74 @@
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
-## Contenido
-* [Información personal](#información-personal)
-* [Proyectos](#proyectos)
-* [Intereses](#intereses)
-## Información personal
-* Nombre: Victoria Angulo Borja
-* Ocupación: Estudiante de ingeniería en computación.
-* Lugar de residencia: Guayaquil - Ecuador
-* Sitio web: None.
-## Proyectos
-* [Lista de tus proyectos]
-## Intereses
-* Gatos
-* Medio ambiente
-* Código fuente
-* Programación
-* Diseño de páginas web
+# 📁 Mi Portafolio de Proyectos
+
+¡Bienvenido a mi repositorio personal! Aquí encontrarás una recopilación de mis proyectos más relevantes, incluyendo descripciones, tecnologías utilizadas, estado de desarrollo, enlaces y más.
+
+---
+
+## 👤 Información Personal
+
+- **Nombre:** Hilda Victoria Angulo Borja  
+- **Carrera:** Ingeniería en Computación  
+- **Universidad:** Escuela Superior Politécnica del Litoral  
+- **País:** ꭼꮯ Ecuador  
+- **Idiomas:** Español (nativo), Inglés (intermedio)  
+- **Intereses:** Desarrollo web, inteligencia artificial, diseño UI/UX, automatización  
+- **Hobbies:** Programar, videojuegos, resolver retos
+
+---
+
+## 📌 Índice
+
+- [Proyectos](#proyectos)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Contacto](#contacto)
+
+---
+
+## 🚀 Proyectos
+
+### 1. **Nombre del Proyecto 1**
+**Descripción:** Págima de venta de carros para la materia Estructuras de Datos.  
+**Estado:** ✅ Completado 
+**Tecnologías:** `Java` `NetBeans`  
+**Enlace:** [Ver Proyecto](https://enlace-al-proyecto.com)  
+**Repositorio:** [GitHub](https://github.com/usuario/proyecto1)  
+**Captura de pantalla:**
+
+![Captura Proyecto 1](ruta/a/captura1.png)
+
+---
+
+### 2. **Nombre del Proyecto 2**
+**Descripción:** Breve resumen del propósito o función del proyecto.  
+**Estado:** 🔧 En desarrollo  
+**Tecnologías:** `Python` `Flask` `SQLite`  
+**Enlace:** [Ver Proyecto](https://enlace-al-proyecto2.com)  
+**Repositorio:** [GitHub](https://github.com/usuario/proyecto2)  
+**Captura de pantalla:**
+
+![Captura Proyecto 2](ruta/a/captura2.png)
+
+---
+
+## 🛠 Tecnologías Utilizadas
+
+A lo largo de mis proyectos he utilizado diferentes herramientas y lenguajes:
+
+- **Frontend:** `HTML` `CSS` `JavaScript` `React` `Bootstrap`
+- **Backend:** `Python` `Flask` `Node.js`
+- **Base de datos:** `MySQL` `MongoDB` `SQLite`
+- **Otros:** `Git` `GitHub` `Figma` `Docker`
+
+---
+
+## 📬 Contacto
+
+Si deseas ponerte en contacto conmigo:
+
+- 📧 Correo institucional: [hvangulo@espol.edu.ec](mailto:hvangulo@espol.edu.ec)
+- 💼 [LinkedIn](https://linkedin.com/in/victoria-angulo-860a51252/)
+- 🐙 [GitHub](https://github.com/vic28code)
+
+---
+
+_Última actualización: mayo 2025_
