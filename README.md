@@ -29,9 +29,8 @@
 ### 1. **Nombre del Proyecto 1**
 **Descripción:** Págima de venta de carros para la materia Estructuras de Datos.  
 **Estado:** ✅ Completado 
-**Tecnologías:** `Java` `NetBeans`  
-**Enlace:** [Ver Proyecto](https://enlace-al-proyecto.com)  
-**Repositorio:** [GitHub](https://github.com/usuario/proyecto1)  
+**Tecnologías:** `Java` `NetBeans` `SceneBuilder`
+**Repositorio:** [GitHub](https://github.com/Alvasconv/Grupo-11)  
 **Captura de pantalla:**
 
 ![Captura Proyecto 1](ruta/a/captura1.png)
@@ -42,7 +41,6 @@
 **Descripción:** Breve resumen del propósito o función del proyecto.  
 **Estado:** 🔧 En desarrollo  
 **Tecnologías:** `Python` `Flask` `SQLite`  
-**Enlace:** [Ver Proyecto](https://enlace-al-proyecto2.com)  
 **Repositorio:** [GitHub](https://github.com/usuario/proyecto2)  
 **Captura de pantalla:**
 
