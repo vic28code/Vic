@@ -38,9 +38,9 @@
 **Repositorio:** [Link to GitHub Repository](https://github.com/Alvasconv/Grupo-11)  
 **Captura de pantalla:**
 
-![Captura 1 Proyecto 1](imgs/vehiculos.png)  
+![Captura 1 Proyecto 1](imgs/vehiculos.png)    
 ![Captura 2 Proyecto 1](imgs/cars.png)  
-![Captura 3 Proyecto 1](imgs/seleccion.png)
+![Captura 3 Proyecto 1](imgs/seleccion.png)  
 
 ---
 
