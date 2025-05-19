@@ -38,9 +38,9 @@
 **Repositorio:** [Link to GitHub Repository](https://github.com/Alvasconv/Grupo-11)  
 **Captura de pantalla:**
 
-![Captura 1 Proyecto 1](imgs/vehiculos.png)
-![Captura 2 Proyecto 1](imgs/cars.png)
-![Captura 3 Proyecto 1](imgs/seleccion.png)
+![Captura 1 Proyecto 1](imgs/vehiculos.png)  
+![Captura 2 Proyecto 1](imgs/cars.png)  
+![Captura 3 Proyecto 1](imgs/seleccion.png)  
 
 ---
 
@@ -51,25 +51,25 @@
 **Repositorio:** [Link to BitBucket Repository](https://bitbucket.org/poo5-1p-g1/bitbucket-poo-grupo1/src/master/)    
 **Captura de pantalla:**
 
-![Captura 1 Proyecto 2](imgs\proy5.jpg)
-![Captura 2 Proyecto 2](imgs\proy6.jpg)
-![Captura 3 Proyecto 2](imgs\proy7.jpg)
-![Captura 4 Proyecto 2](imgs\proy8.jpg)
-![Captura 5 Proyecto 2](imgs\proy9.jpg)
+![Captura 1 Proyecto 2](imgs\proy5.jpg)  
+![Captura 2 Proyecto 2](imgs\proy6.jpg)  
+![Captura 3 Proyecto 2](imgs\proy7.jpg)  
+![Captura 4 Proyecto 2](imgs\proy8.jpg)  
+![Captura 5 Proyecto 2](imgs\proy9.jpg)  
 
 ---
 
 ### 3. **Sistema de viajes**
-**Descripción:** El presente proyecto consiste en el desarrollo de un sistema de gestión de viajes aéreos implementado en Java utilizando el entorno de desarrollo NetBeans. La aplicación permite a los usuarios registrarse e iniciar sesión para acceder a una plataforma interactiva donde pueden consultar horarios de vuelos, visualizar destinos turísticos mediante un mapa, y realizar reservas de vuelos. Además, el sistema ofrece promociones mensuales y una interfaz gráfica amigable orientada a mejorar la experiencia del usuario en la planificación de sus viajes. Proyecto realizado para la materia programación orientada a objetos.
+**Descripción:** El presente proyecto consiste en el desarrollo de un sistema de gestión de viajes aéreos implementado en Java utilizando el entorno de desarrollo NetBeans. La aplicación permite a los usuarios registrarse e iniciar sesión para acceder a una plataforma interactiva donde pueden consultar horarios de vuelos, visualizar destinos turísticos mediante un mapa, y realizar reservas de vuelos. Además, el sistema ofrece promociones mensuales y una interfaz gráfica amigable orientada a mejorar la experiencia del usuario en la planificación de sus viajes. Proyecto realizado para la materia programación orientada a objetos.  
 **Estado:** ✅ Finalizado.  
-**Tecnologías:** `Java` `Apache NetBeans` `SceneBuilder`
+**Tecnologías:** `Java` `Apache NetBeans` `SceneBuilder`  
 **Repositorio:** [Link to GitHub Repository](https://github.com/vic28code/PAR5_PROY2P_Angulo_Herrera_Moscoso)    
 **Captura de pantalla:**
 
-![Captura 1 Proyecto 2](imgs\proy1.jpg)
-![Captura 1 Proyecto 2](imgs\proy2.jpg)
-![Captura 1 Proyecto 2](imgs\proy3.jpg)
-![Captura 1 Proyecto 2](imgs\proy4.jpg)
+![Captura 1 Proyecto 2](imgs\proy1.jpg)  
+![Captura 1 Proyecto 2](imgs\proy2.jpg)  
+![Captura 1 Proyecto 2](imgs\proy3.jpg)  
+![Captura 1 Proyecto 2](imgs\proy4.jpg)  
 
 ---
 
