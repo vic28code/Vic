@@ -94,7 +94,8 @@ Si deseas ponerte en contacto conmigo:
 - 💼 LinkedIn[linkedin.com/in/victoria-angulo-860a51252/](https://linkedin.com/in/victoria-angulo-860a51252/)
 - 🐙 GitHub [github.com/vic28code](https://github.com/vic28code)  
 - _Enlace sitio web: https://vic28code.github.io/Vic/_
-- _QR del sitio web:_ ![QR](imgs/qrcode_vic28code.github.io.png)_
+- _QR del sitio web:_  
+ ![QR](imgs/qrcode_vic28code.github.io.png)
 
 ---
 
