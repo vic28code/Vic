@@ -40,7 +40,7 @@
 
 ![Captura 1 Proyecto 1](imgs/vehiculos.png)  
 ![Captura 2 Proyecto 1](imgs/cars.png)  
-![Captura 3 Proyecto 1](imgs/seleccion.png)  
+![Captura 3 Proyecto 1](imgs/seleccion.png)
 
 ---
 
