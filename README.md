@@ -51,11 +51,11 @@
 **Repositorio:** [Link to BitBucket Repository](https://bitbucket.org/poo5-1p-g1/bitbucket-poo-grupo1/src/master/)    
 **Captura de pantalla:**
 
-![Captura 1 Proyecto 2](imgs\proy5.JPG)
-![Captura 2 Proyecto 2](imgs\proy6.JPG)
-![Captura 3 Proyecto 2](imgs\proy7.JPG)
-![Captura 4 Proyecto 2](imgs\proy8.JPG)
-![Captura 5 Proyecto 2](imgs\proy9.JPG)
+![Captura 1 Proyecto 2](imgs\proy5.jpg)
+![Captura 2 Proyecto 2](imgs\proy6.jpg)
+![Captura 3 Proyecto 2](imgs\proy7.jpg)
+![Captura 4 Proyecto 2](imgs\proy8.jpg)
+![Captura 5 Proyecto 2](imgs\proy9.jpg)
 
 ---
 
@@ -66,10 +66,10 @@
 **Repositorio:** [Link to GitHub Repository](https://github.com/vic28code/PAR5_PROY2P_Angulo_Herrera_Moscoso)    
 **Captura de pantalla:**
 
-![Captura 1 Proyecto 2](imgs\proy1.JPG)
-![Captura 1 Proyecto 2](imgs\proy2.JPG)
-![Captura 1 Proyecto 2](imgs\proy3.JPG)
-![Captura 1 Proyecto 2](imgs\proy4.JPG)
+![Captura 1 Proyecto 2](imgs\proy1.jpg)
+![Captura 1 Proyecto 2](imgs\proy2.jpg)
+![Captura 1 Proyecto 2](imgs\proy3.jpg)
+![Captura 1 Proyecto 2](imgs\proy4.jpg)
 
 ---
 
